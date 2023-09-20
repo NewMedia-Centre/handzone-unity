@@ -23,7 +23,7 @@ namespace RhinoInside.Unity
         if (string.IsNullOrEmpty(RhinoSystemDir))
         {
             Debug.Log("Unable to found Rhino 7 installed on this computer.\n\nDo you want to download it now?");
-            Application.OpenURL("https://www.rhino3d.com/download/rhino/7.0");
+            
         }
         else
         {
