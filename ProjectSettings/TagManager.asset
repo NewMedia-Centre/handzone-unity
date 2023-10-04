@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - limb
+  - Button
   layers:
   - Default
   - TransparentFX
